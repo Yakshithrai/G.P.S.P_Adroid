@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264602164441",
+    "project_id": "gram-panchayat-project-748e7",
+    "storage_bucket": "gram-panchayat-project-748e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264602164441:android:902cd4066ad2ad426d72c8",
+        "android_client_info": {
+          "package_name": "com.techvidvan.grampanchayat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264602164441-g0s9emqth828hi37a5ikckhh6s6esop9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU5hKbh0BDcCvRwPq9iSPGKBgj2KZJUio"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264602164441-g0s9emqth828hi37a5ikckhh6s6esop9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
